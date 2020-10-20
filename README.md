@@ -1,7 +1,17 @@
-### Hi there 👋
-
+### Hello! 😄
+#### 📫 How to reach me: ...
+  - Website: http://www.joshcodes.dev
+  - LinkedIn: https://www.linkedin.com/in/jtobannon/
+  - Twitter: https://twitter.com/jtobannon
 <!--
 **jobannon/jobannon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
+| Repository | Purpose | Repository                     | Purpose |
+|------------|---------|--------------------------------|---------|
+| rosetta-be |         | sweater_weather                |         |
+| upvote_api |         | rails_eng                      |         |
+| upvote_ui  |         | monster_shop_individual_coupon |         |
 
 Here are some ideas to get you started:
 
@@ -11,6 +21,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
+-  Pronouns: ...
 - ⚡ Fun fact: ...
 -->
