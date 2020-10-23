@@ -1,5 +1,28 @@
-<link href="style.css" rel="stylesheet"></link> 
+<!-- <link href="style.css" rel="stylesheet"></link>  -->
 <link href="https://fonts.googleapis.com/css2?family=Roboto&display=swap" rel="stylesheet">
+
+
+<style>
+  .readme_profile{
+    font-family: 'Roboto', sans-serif;
+  }
+  .with-flex{
+    display: flex;
+  }
+  .square{
+    color: black;
+    border-radius: 5px;
+    padding: 5px 10px;
+    height: 150px;
+    width: 300px;
+    background-color: lightsteelblue;
+    margin: 5px 5px;
+  }
+  .logo{
+    width: 15px;
+    margin: 0px 5px;
+  }
+</style>
 
 <div class="readme_profile">
   <h2>Hello!!! 👋👋👋</h2>
