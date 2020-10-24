@@ -13,58 +13,7 @@
   </ul>
 <details>
 <summary>👇 Pinned Repo Walkthrough 👇</summary>
-  <div class='with-flex'>
-    <div class="row">
-      <div class="square"> 
-        <p style='margin: 0px'><strong>rosetta-be</strong>-</p> 
-        <ul>
-          <li>
-            <p><u>Purpose</u>: This is the backend python application driving the Rosetta language translator.</p>
-          </li>
-          <li>
-            <p><u>Notable Tech:</u>
-            <img src='./assets/python.svg' class="logo">
-            <img src='./assets/beautiful_soup.svg' class="logo">
-            </p>
-          </li>
-        </ul>
-      </div>
-      <div class="square"> 
-        <p><strong>sweater_weather</strong>-</p>
-        <ul>
-          <li>
-            <u>Purpose</u>: This repo is an exercise in consuming external API's and exposing endpoints in Rails.</p>
-          </li>
-          <li>
-            <p><u>Notable Tech:</u>
-            <img src='./assets/ruby.svg' class="logo">
-            <img src='./assets/rubyonrails.svg' class="logo">
-            </p>
-          </li>
-        </ul>
-      </div>
-    </div>
-    <div class="row">
-      <div class="square"> 
-        <p><strong>upvote_api</strong>-</p>
-          <u>Purpose</u>: This is the backend Sinatra application enabling a user voting engine.</p>
-      </div>
-      <div class="square"> 
-        <p><strong>sweater_weather</strong>-</p> 
-          <u>Purpose</u>: An project focused on creating and throughly testing multiple rails API endpoints.</p>
-      </div>
-    </div>
-    <div class="row">
-      <div class="square"> 
-        <p><strong>upvote_ui</strong>-</p>
-          <u>Purpose</u>: JS frontend code driving the user voting engine of Upvote.</p>
-      </div>
-      <div class="square"> 
-        <p><strong>monster_shop</strong>-</p>
-          <u>Purpose</u>: This is a e-commerce platform (selling ☕️️).</p>
-      </div>
-    </div>
-  </div>
+  <img src ='./assets/pinned.png'>
 </div>
 
 
