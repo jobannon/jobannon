@@ -1,41 +1,15 @@
-<!-- <link href="style.css" rel="stylesheet"></link>  -->
-<link href="https://fonts.googleapis.com/css2?family=Roboto&display=swap" rel="stylesheet">
-
-
-<style>
-  .readme_profile{
-    font-family: 'Roboto', sans-serif;
-  }
-  .with-flex{
-    display: flex;
-  }
-  .square{
-    color: black;
-    border-radius: 5px;
-    padding: 5px 10px;
-    height: 150px;
-    width: 300px;
-    background-color: lightsteelblue;
-    margin: 5px 5px;
-  }
-  .logo{
-    width: 15px;
-    margin: 0px 5px;
-  }
-</style>
-
 <div class="readme_profile">
   <h2>Hello!!! 👋👋👋</h2>
 <details>
 <summary>📫 How to reach me: ...</summary>
   <ul>
     <li>Website: <a href="http://www.joshcodes.dev">
-      <img src='./assets/website.svg' class="logo"> joshcodes.dev</a>
+      <img src='./assets/website.svg' width='15px' margin-right='5px' margin-left='5px'> joshcodes.dev</a>
       </li>
     <li>LinkedIn: <a href="https://www.linkedin.com/in/jtobannon/">
-      <img src='./assets/linkedin.svg' class="logo">jtobannon</a>
+      <img src='./assets/linkedin.svg' width='15px' margin-right='5px' margin-left='5px'> jtobannon</a>
     </li>
-    <li>Twitter: <a href="https://twitter.com/jtobannon"><img src='./assets/twitter.svg' class="logo">jtobannon</a></li>
+    <li>Twitter: <a href="https://twitter.com/jtobannon"><img src='./assets/twitter.svg' width='15px' margin-right='5px' margin-left='5px' class="logo">jtobannon</a></li>
   </ul>
 <details>
 <summary>👇 Pinned Repo Walkthrough 👇</summary>
