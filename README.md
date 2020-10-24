@@ -47,7 +47,7 @@
           <p><i>⚡️ Webscrapping ⚡️ Python ⚡️ Machine Learning </i></p>
       </div>
       <div class="square"> 
-        <p><strong>sweater_weather</strong>-</p>
+        <p><strong>rails_eng</strong>-</p>
           <p class="with-bottom"><u>Purpose</u>: This repo is an exercise in consuming external API's and exposing endpoints in Rails.</p>
           <p><i>
             ⚡️ API Consumption
@@ -65,7 +65,7 @@
       <div class="square"> 
         <p><strong>sweater_weather</strong>-</p> 
           <u>Purpose</u>: An project focused on creating and throughly testing multiple rails API endpoints.</p>
-          <p><i>⚡️ UX design requirements ⚡️ API consumption ⚡️ API Endpoints </i> </p>
+          <p><i>⚡️ UX Design Requirements ⚡️ API consumption ⚡️ API Endpoints </i> </p>
       </div>
     </div>
     <div class="row">

@@ -3,13 +3,17 @@
 }
 .with-flex{
   display: flex;
+  flex-flow: row wrap;
+}
+.row {
+  display: flex;
 }
 .square{
   color: black;
   border-radius: 5px;
   padding: 5px 10px;
   height: 700px;
-  width: 300px;
+  width: 400px;
   background-color: lightsteelblue;
   margin: 5px 5px;
 }
